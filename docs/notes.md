@@ -10,3 +10,4 @@ Notes and usage details for site-performance-tracker.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
