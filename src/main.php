@@ -11,3 +11,4 @@ Allows you to detect and track site performance metrics
 // keep defaults in sync with the manifest
 // clarify the control flow
 // clarify the control flow
+// guard against empty input
