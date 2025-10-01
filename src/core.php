@@ -30,3 +30,4 @@ Allows you to detect and track site performance metrics
 // drop an unused branch
 // drop an unused branch
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
