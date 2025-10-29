@@ -32,3 +32,4 @@ Allows you to detect and track site performance metrics
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
 // clarify the control flow
+// drop an unused branch
